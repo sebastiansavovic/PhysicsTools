@@ -1,0 +1,47 @@
+[
+  {
+    "Title": "Angular Velocity",
+    "Description": "A vector describing both the current rotation axis and rotational speed (in radians per second) of the physics body."
+  },
+  {
+    "Title": "Velocity",
+    "Description": "A vector describing both the current speed (in meters per second) and direction of motion of the physics body."
+  },
+  {
+    "Title": "Angle",
+    "Description": "Rotation of the body in radians"
+  },
+  {
+    "Title": "Scale",
+    "Description": "Multiplier of the size of a body to it's default size"
+  },
+  {
+    "Title": "Gravity",
+    "Description": "A vector that specifies the gravitational acceleration applied to physics bodies in the physics world."
+  },
+  {
+    "Title": "Mass",
+    "Description": "The mass of a body affects its momentum and how it responds to forces. The default mass for dynamic bodies is 1.0. The default mass for static and kinematic bodies is 0.0, but these bodies are unaffected by mass."
+  },
+  {
+    "Title": "Angular Damping",
+    "Description": "This property is used to simulate fluid or air friction forces on the body"
+  },
+  {
+    "Title": "Linear Damping",
+    "Description": "This property is used to simulate fluid or air friction forces on the body"
+  },
+  {
+    "Title": "Angular Damping",
+    "Description": "This property is used to simulate fluid or air friction forces on the body"
+  },
+  {
+    "Title": "Restitution",
+    "Description": "A factor that determines how much kinetic energy the body loses or gains in collisions."
+  },
+  {
+    "Title": "Friction",
+    "Description": "This property simulates the roughness of the body's surface. When two bodies are in contact and a force is applied that would cause them to slide against one another, the friction values for both bodies determine their resistance to motion."
+  }
+
+]

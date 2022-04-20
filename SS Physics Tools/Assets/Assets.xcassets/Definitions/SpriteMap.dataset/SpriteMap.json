@@ -1,0 +1,200 @@
+[
+    {
+      "Name": "WhiteBird",
+      "Shape": "Circle",
+      "TextName": "Birds",
+      "Rectangle": {
+        "X": 403.0,
+        "Y": 360.0,
+        "Width": 88.0,
+        "Height": 88.0
+      }
+    },
+    {
+      "Name": "Seed",
+      "TextName": "Birds",
+      "Shape": "Circle",
+      "Rectangle": {
+        "X": 673.0,
+        "Y": 352.0,
+        "Width": 95.0,
+        "Height": 90.0
+      }
+    },
+    {
+      "Name": "SlingShot_1",
+      "TextName": "Birds",
+      "Shape": "Rectangle",
+      "Rectangle": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Width": 40.0,
+        "Height": 200.0
+      }
+    },
+    {
+      "Name": "Glass_Square_1",
+      "TextName": "GlassBlocks",
+      "Shape": "Rectangle",
+      "Rectangle": {
+        "X": 2.0,
+        "Y": 2.0,
+        "Width": 38.0,
+        "Height": 38.0
+      }
+    },
+    {
+      "Name": "Glass_Rectangle_1",
+      "TextName": "GlassBlocks",
+      "Shape": "Rectangle",
+      "Rectangle": {
+        "X": 144.0,
+        "Y": 108.0,
+        "Width": 101.0,
+        "Height": 10.0
+      }
+    },
+    {
+      "Name": "Glass_Circle_1",
+      "TextName": "GlassBlocks",
+      "Shape": "Circle",
+      "Rectangle": {
+        "X": 84.0,
+        "Y": 118.0,
+        "Width": 38.0,
+        "Height": 38.0
+      }
+    },
+    {
+      "Name": "Glass_Triangle_1",
+      "TextName": "GlassBlocks",
+      "Shape": "TriangleUp",
+      "Rectangle": {
+        "X": 44.0,
+        "Y": 43.0,
+        "Width": 38.0,
+        "Height": 38.0
+      }
+    },
+    {
+      "Name": "Glass_Triangle_2",
+      "TextName": "GlassBlocks",
+      "Shape": "Triangle45",
+      "Rectangle": {
+        "X": 85.0,
+        "Y": 0.0,
+        "Width": 38.0,
+        "Height": 38.0
+      }
+    },
+    {
+      "Name": "Wood_Square_1",
+      "TextName": "WoodBlocks",
+      "Shape": "Rectangle",
+      "Rectangle": {
+        "X": 2.0,
+        "Y": 2.0,
+        "Width": 38.0,
+        "Height": 38.0
+      }
+    },
+    {
+      "Name": "Wood_Rectangle_1",
+      "TextName": "WoodBlocks",
+      "Shape": "Rectangle",
+      "Rectangle": {
+        "X": 144.0,
+        "Y": 85.0,
+        "Width": 101.0,
+        "Height": 10.0
+      }
+    },
+    {
+      "Name": "Wood_Circle_1",
+      "TextName": "WoodBlocks",
+      "Shape": "Circle",
+      "Rectangle": {
+        "X": 84.0,
+        "Y": 41.0,
+        "Width": 38.0,
+        "Height": 38.0
+      }
+    },
+    {
+      "Name": "Wood_Triangle_1",
+      "TextName": "WoodBlocks",
+      "Shape": "TriangleUp",
+      "Rectangle": {
+        "X": 44.0,
+        "Y": 0.0,
+        "Width": 38.0,
+        "Height": 38.0
+      }
+    },
+    {
+      "Name": "Wood_Triangle_2",
+      "TextName": "WoodBlocks",
+      "Shape": "Triangle45",
+      "Rectangle": {
+        "X": 85.0,
+        "Y": 0.0,
+        "Width": 38.0,
+        "Height": 38.0
+      }
+    },
+    {
+      "Name": "Stone_Square_1",
+      "TextName": "StoneBlocks",
+      "Shape": "Rectangle",
+      "Rectangle": {
+        "X": 2.0,
+        "Y": 2.0,
+        "Width": 38.0,
+        "Height": 38.0
+      }
+    },
+    {
+      "Name": "Stone_Circle_1",
+      "TextName": "StoneBlocks",
+      "Shape": "Circle",
+      "Rectangle": {
+        "X": 84.0,
+        "Y": 41.0,
+        "Width": 38.0,
+        "Height": 38.0
+      }
+    },
+    {
+      "Name": "Stone_Rectangle_1",
+      "TextName": "StoneBlocks",
+      "Shape": "Rectangle",
+      "Rectangle": {
+        "X": 124.0,
+        "Y": 85.0,
+        "Width": 101.0,
+        "Height": 10.0
+      }
+    },
+    {
+      "Name": "Stone_Triangle_1",
+      "TextName": "StoneBlocks",
+      "Shape": "TriangleUp",
+      "Rectangle": {
+        "X": 44.0,
+        "Y": 0.0,
+        "Width": 38.0,
+        "Height": 38.0
+      }
+    },
+    {
+      "Name": "Stone_Triangle_2",
+      "TextName": "StoneBlocks",
+      "Shape": "Triangle45",
+      "Rectangle": {
+        "X": 85.0,
+        "Y": 0.0,
+        "Width": 38.0,
+        "Height": 38.0
+      }
+    }
+]
