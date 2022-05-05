@@ -26,5 +26,13 @@ This Class was taken at the same time as GAM-450 (Physics for Game Developers), 
 
 
 ## Startup UI
-- World Settings
+
 ![alt Startup UI](Screenshots/IMG_0003.PNG)
+
+![alt World Settings](Screenshots/IMG_0004.PNG)
+- World Settings
+  - Gravity Modifier
+  - Gravity Direction (manual or gyro)
+  - Despawn on boundary (particles system being removes when it hits the boundaries)
+  - Enable Peer (Experimental Peer to Peer collaboration, building levels)
+  - Show Physics (Some objects would display statistics)
